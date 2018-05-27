@@ -1,2 +1,2 @@
 # jonmlinch.github.io
-This is an about me page
+This will be my personal portfolio website. 
