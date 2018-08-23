@@ -3,16 +3,16 @@ body {
 	background-color: black;
 }
 
-h1, h2{
-	text-align: center;
-}
-
 li{
 	text-align: top;
 }
 
 a {
 	color: black;
+}
+
+.name-title {
+	text-align: center;
 }
 
 .jobs{
