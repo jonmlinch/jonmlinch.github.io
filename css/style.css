@@ -1,0 +1,39 @@
+body {
+	color: white;
+	background-color: black;
+}
+
+h1, h2{
+	text-align: center;
+}
+
+li{
+	text-align: top;
+}
+
+a {
+	color: black;
+}
+
+.jobs{
+	height: 100px;
+}
+
+.left-nav, .right-nav {
+	display: inline-block;
+}
+
+.right-nav {
+	text-align: right;
+}
+
+#stickybar {
+	position: sticky;
+	background-color: rgb(1, 150, 28);
+}
+
+.sticky {
+	position: fixed;
+	top: 1px;
+	width: 100%;
+}
