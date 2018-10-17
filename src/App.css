@@ -1,5 +1,6 @@
 nav {
   background-color: #171717;
+  height: 5%;
 }
 
 a {
@@ -34,10 +35,11 @@ a {
 
 .choices-list {
   list-style: none;
-  margin-right: 1em;
+  margin-right: 1%;
   display: grid;
   grid-template-columns: repeat(4, 5em);
-  grid-gap: 1em;
+  grid-gap: 1%;
   justify-content: end;
   justify-items: end;
+  align-items: center;
 }
